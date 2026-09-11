@@ -17,7 +17,7 @@ By anticipating the distinct needs of the CEO (operations & bottom-line revenue)
 * **Strategic Framing:** Business Needs Analysis & Question Formulation
 
 ## 📂 Project Files
-* [**Business Framing Document (Task 1)**](<Task 1 - 8 Questions.pdf>)
+* [**Business Framing Document (Task 1)**](Task_1_8_Questions.pdf)
 * [**Cleaned Dataset**](<Online Retail Data Set CSV.xlsx>)
 * [**Power BI Dashboard File**](Tata_Data_Visualization.pbix)
 * [**Executive Presentation Report**](Tata_Data_Visualization_Executive_Report.pdf)
