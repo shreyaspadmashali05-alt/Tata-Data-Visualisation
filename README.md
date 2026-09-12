@@ -18,7 +18,7 @@ By anticipating the distinct needs of the CEO (operations & bottom-line revenue)
 
 ## 📂 Project Files
 * [**Business Framing Document (Task 1)**](Task_1_8_Questions.pdf)
-* [**Cleaned Dataset**](Online%20Retail%20Data%20Set%20CSV.xlsx)
+* [**Cleaned Dataset**](Online_Retail_Data_Set.xlsx)
 * [**Power BI Dashboard File**](Tata_Data_Visualization.pbix)
 * [**Executive Presentation Report**](Tata_Data_Visualization_Executive_Report.pdf)
 * [**Dashboard Visual Export**](Tata_Data_Visualization.pdf)
